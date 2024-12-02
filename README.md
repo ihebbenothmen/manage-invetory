@@ -21,8 +21,8 @@ php artisan serve
 The application will be accessible at http://localhost:8000
 
 API Endpoints
-GET /api/properties: Get all properties.
-POST /api/properties: Create a new property listing.
+GET /properties: Get all properties.
+POST /properties: Create a new property listing.
 
 
 To run tests, use the following command:
